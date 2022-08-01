@@ -1,43 +1,7 @@
 # Kaggle_practice
+상위권 캐글러들의 작업을 필사하여, 머신러닝과 딥러닝을 공부하고 있습니다.
 
-## Table of Contents
-**Binary classification : Tabular data**
-- [1st level. Titanic: Machine Learning from Disaster](#1st-level-titanic-machine-learning-from-disaster)
-- [2nd level. Porto Seguro’s Safe Driver Prediction](#2nd-level-porto-seguros-safe-driver-prediction)
-- [3rd level. Home Credit Default Risk](#3rd-level-home-credit-default-risk)
-
-
-**Multi-class classification : Tabular data**
-- 1st level. Costa Rican Household Poverty Level Prediction
-
-
-**Binary classification : Image classification**
-- 1st level. Statoil/C-CORE Iceberg Classifier Challenge
-
-
-**Multi-class classification : Image classification**
-- 1st level. TensorFlow Speech Recognition Challenge
-
-
-**Regression : Tabular data**
-- 1st level. New York City Taxi Trip Duration
-- 2nd level. Zillow Prize: Zillow’s Home Value Prediction (Zestimate)
-
-
-**Object segmentation : Deep learning**
-- 1st level. 2018 Data Science Bowl
-
-
-**Natural language processing : classification, regression**
-- 1st level. Spooky Author Identification
-- 2nd level. Mercari Price Suggestion Challenge
-- 3rd level. Toxic Comment Classification Challenge
-
-
-**Other dataset : anomaly detection, visualization**
-- 1st level. Credit Card Fraud Detection
-- 2nd level. Kaggle Machine Learning & Data Science Survey 2017
-
+## 목차
 
 * * *
 **Binary classification : Tabular data**
